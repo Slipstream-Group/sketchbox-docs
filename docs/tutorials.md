@@ -14,6 +14,8 @@ This is how you model an office.
 
 Here's a library!
 
+These are examples of custom markdown components we can use:
+
 ::: tip
 This is a tip
 :::
