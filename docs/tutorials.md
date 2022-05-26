@@ -1,6 +1,6 @@
 # Tutorials
 
-Maybe we want to write up some simple tutorials?
+Here is where we can put any tutorials or videos about Sketchbox.
 
 ## Videos
 
