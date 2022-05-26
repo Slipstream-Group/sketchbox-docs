@@ -22,7 +22,7 @@ We can embed YouTube videos from a URL:
 Or we can host the videos ourselves:
 
 <video width="560" controls>
-  <source src="@source/videos/Overview 2022-04-15_11-52-15.mp4" type="video/mp4">
+  <source src="@source/videos/Overview_2022-04-15_11-52-15.mp4" type="video/mp4">
   Your browser does not support the video tag
 </video>
 
