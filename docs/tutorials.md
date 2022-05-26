@@ -4,7 +4,28 @@ Maybe we want to write up some simple tutorials?
 
 ## Videos
 
-Links to videos (or we might be able to embed them directly!)
+### Embedded YouTube Video
+We can embed YouTube videos from a URL:
+
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/MbZ-jgMwF-E"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+/>
+
+### Native Video
+
+Or we can host the videos ourselves:
+
+<video width="560" controls>
+  <source src="@source/videos/Overview 2022-04-15_11-52-15.mp4" type="video/mp4">
+  Your browser does not support the video tag
+</video>
+
 
 ## Case Study: Office in Chicago, IL
 

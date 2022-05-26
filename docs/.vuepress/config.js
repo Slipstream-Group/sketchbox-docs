@@ -7,7 +7,7 @@ module.exports = {
     sidebar: [
       "/index.md",
       "/getting-started",
-	  "/fundamentals",
+      "/fundamentals",
       "/tutorials",
       "/faq.md",
       "/troubleshooting.md",
