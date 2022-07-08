@@ -6,4 +6,4 @@ Building Science: [Building Science Education Series (solardecathlon.gov)](https
 
 Energy Modeling: [Home (bemcyclopedia.com)](http://www.bemcyclopedia.com/)
 
-This is a test!
+This is a test! It is only a test.
