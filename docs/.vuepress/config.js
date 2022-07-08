@@ -7,10 +7,11 @@ module.exports = {
     sidebar: [
       "/index.md",
       "/getting-started",
-      "/fundamentals",
       "/tutorials",
       "/faq.md",
       "/troubleshooting.md",
+	  "/resources",
+	  "/version-history"
     ],
   }),
   lang: 'en-US',
