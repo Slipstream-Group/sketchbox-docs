@@ -14,7 +14,7 @@ The verification email should arrive to your inbox shortly; if it does not, be s
 
 The key components of the Sketchbox interface are highlighted in this image and described below.
 
-![A screenshot of the Sketchbox interface](images/interface.png)
+![A screenshot of the Sketchbox interface](./images/interface.png)
 
 1. **Project Name.** When the project name is edited in the [Project tab](#project-tab), the title and heading will also be updated. By default, the project name will also be used when saving the project.
 2. **Webapp functions.** There are four webapp functions across all views in Sketchbox:
