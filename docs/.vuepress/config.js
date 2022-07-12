@@ -15,6 +15,6 @@ module.exports = {
     ],
   }),
   lang: 'en-US',
-  title: 'Sketchbox documentation',
+  title: 'Sketchbox docs',
   description: 'Documenation for Sketchbox, a simple building energy modeling tool, by Slipstream',
 };
