@@ -10,11 +10,12 @@ module.exports = {
       "/tutorials",
       "/faq.md",
       "/troubleshooting.md",
-	  "/resources",
-	  "/version-history"
+      "/resources",
+      "/version-history"
     ],
+    contributors: false,
   }),
   lang: 'en-US',
-  title: 'Sketchbox docs',
-  description: 'Documenation for Sketchbox, a simple building energy modeling tool, by Slipstream',
+  title: 'Sketchbox Documentation',
+  description: 'Documentation for Sketchbox, a simple building energy modeling tool, by Slipstream',
 };
