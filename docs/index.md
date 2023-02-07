@@ -11,3 +11,4 @@ To support use as a simple, quick tool, Sketchbox makes a number of simplifying 
   - Loads are spread evenly throughout spaces
   - One per shell program type, HVAC system, and schedule; multiple shells possible
   - Energy conservation measures are applied individually (no bundling) and progressively
+
