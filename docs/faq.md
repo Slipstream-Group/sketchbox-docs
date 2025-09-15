@@ -2,7 +2,7 @@
 
 ## Can I create a measure that will change the HVAC system type?
 
-There is currently no measure to change HVAC type. We’ve avoided this because it’s technically tricky and also hard to rigorously QC for every combination of inputs. As a workaround, you can use a “save as” approach: Once you have built your model with one system and associated measures, save a copy and change the HVAC system. Then we can choose, from the two sets of results, where to transition from baseline to proposed HVAC. Generally after architectural and lighting measures but before HVAC efficiency and controls measures. We're working on features that will make this all easier and more intuitive.
+Yes, you can change the HVAC system type using the custom "HVAC System Type" measure.
 
 ## How can I model an un-conditioned space?
 
