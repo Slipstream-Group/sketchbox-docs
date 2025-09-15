@@ -2,7 +2,7 @@
 
 ## Can I create a measure that will change the HVAC system type?
 
-Yes, you can change the HVAC system type using the custom "HVAC System Type" measure.
+Yes, you can change the HVAC system type using the custom "HVAC System Type" parameter in a user-defined measure.
 
 ## How can I model an un-conditioned space?
 
