@@ -13,6 +13,7 @@ export default defineUserConfig({
       "/tutorials",
       "/faq.md",
       "/troubleshooting.md",
+      "/test",
       "/resources",
       "/version-history",
     ],
