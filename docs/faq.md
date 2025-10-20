@@ -21,6 +21,4 @@ Currently there is no built-in way to model an unconditioned space, however this
 
 ## How can I create a model in a city or country that isn't listed on the Project tab?
 
-## Hello
-
 This functionality is not currently available. However if there is a location you'd like to see support, please let us know by contacting [tools@slipstreaminc.org](mailto:tools@slipstreaminc.org).
