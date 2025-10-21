@@ -40,7 +40,7 @@ This is where basic project information is inputted.
 
 ### Design tab
 
-Design tab is where the building comes to life. Here is a brief description of how Sketchbox works with 
+The Design tab is where the building comes to life. Below is a brief description of the essential functions of the tab.
 
 1. Shells:
 
