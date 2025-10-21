@@ -42,7 +42,7 @@ This is where basic project information is inputted.
 
 The Design tab is where the building comes to life. Below is a brief description of the essential functions of the tab.
 
-<a name="shells anchor"></a>
+<a name="shells-anchor"></a>
 **Shells**
 
 - Buildings in Sketchbox consist of one or more shells. A shell is a simplified representation of a building geometry with uniform loading, schedule, lighting, and HVAC systems. Each shell consists of at least 5 thermal zones (core + perimeters) and represents all rooms/spaces within that part of the building. Generally, it is not important to accurately represent every geometric detail of the architectural design; aim to accurately represent the gross floor area, number of floors, floor to floor height, exterior surface area (aspect ratio input), and window wall ratio (percentage of glazing) on each façade.
