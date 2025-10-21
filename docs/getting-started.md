@@ -31,7 +31,16 @@ Every project has tabs where you can view and enter information about the projec
 
 ### Project tab
 
+This is where basic project information is inputted.
+
+1.  Give your project a name
+2.  Project Environment typically left as "Standard"
+3.	Choose the Nearest City for the project
+4.	Select the appropriate code baseline
+
 ### Design tab
+
+Design tab is where the 
 
 ### Schedules tab
 
