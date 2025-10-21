@@ -23,7 +23,7 @@ The key components of the Sketchbox interface are highlighted in this image and 
     - **Load.** Load a saved project from your account or from a Ripple file.
     - **Logout.** Log out of your account.
 3. **Project tabs.** Each tab is used to modify and view different aspects of the energy model. The function of each is described in detail in [Sketchbox tabs](#sketchbox-tabs).
-4. **Input groups.** Related inputs and results are grouped together under headings. The color of the heading corresponds to the [shell](#shells) to which the group applies. In this example, the "Emissions" input group is highlighted.
+4. **Input groups.** Related inputs and results are grouped together under headings. The color of the heading corresponds to the [shell](#Design-tab) to which the group applies. In this example, the "Emissions" input group is highlighted.
 
 ## Sketchbox tabs
 
