@@ -75,10 +75,9 @@ While baseline values should not be arbitrarily changed, it may be appropriate t
 
 ### Measures tab
 
-The proposed design is represented by applying a series of “Measures” (changes) in the Measures Tab. The user may add individual measures using the "Add Measure" button in the top left, or by clicking the "Add Measure Set" button right next to it. Adding a measure set adds multiple energy conservation measures to the proposed design. This set of measures represents a standard recommendation for high performing buildings. Once the measure is added, Sketchbox will typically recommend a "Better" or "Best" selection. 
+The proposed design is represented by applying a series of “Measures” (changes) in the Measures Tab. The user may add individual measures using the "Add Measure" button in the top left, or by clicking the "Add Measure Set" button right next to it. Adding a measure set adds multiple energy conservation measures to the proposed design. This set of measures represents a standard recommendation for high performing buildings. Once the measure is added, Sketchbox will typically have recommendations for "Better" or "Best" scenarios. 
 <!-- To learn more about where these recomentations come from, click [here](#Section link) -->
 
-<!-- ### Results tab -->
+### Results tab
 
-
-
+The Results tab shows all model outputs on an annual and monthly basis, as well as savings results by measure. A summary table of key metrics such as EUI, Energy Cost, kWh Savings, and Therms Savings is also provided. Lastly, a results table is provided which can easily be copied into a template for report formatting. 
