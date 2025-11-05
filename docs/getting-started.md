@@ -25,6 +25,17 @@ The key components of the Sketchbox interface are highlighted in this image and 
 3. **Project tabs.** Each tab is used to modify and view different aspects of the energy model. The function of each is described in detail in [Sketchbox tabs](#sketchbox-tabs).
 4. **Input groups.** Related inputs and results are grouped together under headings. The color of the heading corresponds to the [shell](#shells-anchor) to which the group applies. In this example, the "Emissions" input group is highlighted.
 
+## Parameter inputs
+
+When modifying inputs in Sketchbox, you'll notice two types of values: values that default to black text, and values that default to blue text. 
+
+If an input parameter has black font, it is constant, meaning it does not depend on another building parameter.
+
+If an input parameter has blue font, it is variable, meaning the value displayed depends on another building parameter. The most common examples of parameters that would affect other input values are "Building Type" (chosen on the Design tab) and "Energy Code" (chosen on the Home tab). If you modify a value that's originally displayed with blue text, you'll see a "refresh" icon appear. When clicked, the value you changed will return to it's original default value. See below for two screenshots of the same Input Group before and after a variable is changed.
+
+![Parameter Inputs Example 1](./images/ParamInput1.png)
+![Parameter Inputs Example 1](./images/ParamInput2.png)
+
 ## Sketchbox tabs
 
 Every project has tabs where you can view and enter information about the project, described in detail below.
@@ -34,7 +45,7 @@ Every project has tabs where you can view and enter information about the projec
 This is where basic project information is inputted.
 
 1.  Give your project a name
-2.  Project Environment typically left as "Standard"
+2.  Project Environment can be left as "Standard"
 3.	Choose the nearest city for the project
 4.	Select the appropriate code baseline
 
@@ -57,6 +68,7 @@ Components on the Design tab should be entered as specified in design documents 
 - Many common HVAC configurations are represented in Sketchbox, including both gas and electrically heated systems. Highly specialized systems, hybrid systems, and antiquated systems are not represented; however, reasonable approximations can usually be made with the most similar available system. First select the heating fuel type (gas or electric), then select the appropriate air-side system, then select the appropriate heating/cooling plant equipment (where applicable).
 - Dedicated outside air (DOAS) systems may be selected for some system types. This should be used when delivery of the ventilation air in the proposed design is decoupled (uses separate equipment and ductwork) from the primary heating and cooling systems. DOAS systems are often used in buildings larger multifamily residential buildings andwith certain higher-performing HVAC systems including ground-source heat pump, VRF, etc. A gas-fired and direct-expansion (DX) cooled DOAS system may be selected or the DOAS system can be selected that match the heating/cooling configuration of the primary HVAC system. Selecting “None” for DOAS means that outside ventilation air will be brought in through the primary HVAC system.
 The type of domestic hot water selected should align with the type specified in the proposed design.
+
 
 ### Schedules tab
 
