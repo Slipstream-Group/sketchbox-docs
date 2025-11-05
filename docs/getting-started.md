@@ -25,13 +25,13 @@ The key components of the Sketchbox interface are highlighted in this image and 
 3. **Project tabs.** Each tab is used to modify and view different aspects of the energy model. The function of each is described in detail in [Sketchbox tabs](#sketchbox-tabs).
 4. **Input groups.** Related inputs and results are grouped together under headings. The color of the heading corresponds to the [shell](#shells-anchor) to which the group applies. In this example, the "Emissions" input group is highlighted.
 
-## Parameter inputs
+## Modifying inputs
 
 When modifying inputs in Sketchbox, you'll notice two types of values: values that default to black text, and values that default to blue text. 
 
 If an input parameter has black font, it is constant, meaning it does not depend on another building parameter.
 
-If an input parameter has blue font, it is variable, meaning the value displayed depends on another building parameter. The most common examples of parameters that would affect other input values are "Building Type" (chosen on the Design tab) and "Energy Code" (chosen on the Home tab). If you modify a value that's originally displayed with blue text, you'll see a "refresh" icon appear. When clicked, the value you changed will return to it's original default value. See below for two screenshots of the same Input Group before and after a variable is changed.
+If an input parameter has blue font, it is variable, meaning the value displayed depends on another building parameter. The most common examples of parameters that would affect other input values are "Building Type" (chosen on the Design tab) and "Energy Code" (chosen on the Home tab). If you modify a value that's originally displayed with blue text, you'll see a "refresh" icon appear. When clicked, the value you changed will return to it's original default value. See below for two screenshots of the same Input Group before and after an input is modified.
 
 ![Parameter Inputs Example 1](./images/ParamInput1.png)
 ![Parameter Inputs Example 1](./images/ParamInput2.png)
