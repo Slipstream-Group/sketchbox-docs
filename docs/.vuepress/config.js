@@ -3,6 +3,7 @@ import { defaultTheme } from "@vuepress/theme-default";
 import { viteBundler } from "@vuepress/bundler-vite";
 
 export default defineUserConfig({
+  base: "/sketchbox-docs/",
   bundler: viteBundler(),
   theme: defaultTheme({
     logo: "/sketchbox_logo.png",
