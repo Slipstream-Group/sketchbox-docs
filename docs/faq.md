@@ -14,8 +14,8 @@ Currently there is no built-in way to model an unconditioned space, however this
  - Schedule Tab
    - Weekday Use Simple Thermostats = Yes
    - Weekend Use Simple Thermostats = Yes (this one can be easy to miss!)
-   - Heating Setpoint Occupied = 0 F
-   - Heating Setpoint Unoccupied = 0 F
+   - Heating Setpoint Occupied = 0 °F
+   - Heating Setpoint Unoccupied = 0 °F
  - Baseline Tab
    - Fan Power = 0 W/CFM
 
