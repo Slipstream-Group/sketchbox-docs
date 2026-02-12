@@ -87,7 +87,7 @@ While baseline values should not be arbitrarily changed, it may be appropriate t
 
 ### Measures tab
 
-The proposed design is represented by applying a series of “Measures” (changes) in the Measures Tab. The user may add individual measures using the "Add Measure" button in the top left, or by clicking the "Add Measure Set" button right next to it. Adding a measure set adds multiple energy conservation measures to the proposed design. This set of measures represents a standard recommendation for high performing buildings. Once a measure or measure set is added, Sketchbox will typically have recommendations for "Better" or "Best" scenarios. 
+The proposed design is represented by applying a series of “Measures” (changes to baseline) in the Measures Tab. The user may add individual measures using the "Add Measure" button in the top left, or by clicking the "Add Measure Set" button right next to it. Adding a measure set adds multiple energy conservation measures to the proposed design. This set of measures represents a standard recommendation for high performing buildings. Once a measure or measure set is added, Sketchbox will typically have recommendations for "Better" or "Best" scenarios. 
 <!-- To learn more about where these recomentations come from, click [here](#Section link) -->
 
 ### Results tab
