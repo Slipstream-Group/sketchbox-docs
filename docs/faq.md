@@ -2,7 +2,7 @@
 
 ## Can I create a measure that will change the HVAC system type?
 
-Yes, you can create a system switch measure using the custom "HVAC System Type" parameter in a user-defined measure as seen in the image below.
+Yes, you can create a system switch measure using the custom "HVAC System Type" parameter in a user-defined measure as seen in the image below. This measure allows you to change system type, set efficiencies for the new system, and change the DOAS system type/efficiency.
 
 ![System Switch example](./images/SystemSwitch.png)
 
