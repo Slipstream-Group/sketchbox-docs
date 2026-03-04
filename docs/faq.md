@@ -28,3 +28,9 @@ This functionality is not currently available. However if there is a location yo
 ## Can I export hourly data from Sketchbox?
 
 There isn't a way to get hourly data directly from Sketchbox. However, by clicking the "Download Archive" button at the top of the results tab, the inp and prd files can be downloaded and opened in eQuest 3.64. From there, more detailed results can be extracted from the model.
+
+## How should lighting controls savings factors be applied?
+
+The Sketchbox team developed default lighting controls savings factors by reviewing industry accepted lighting control studies and technical reference manuals.  The occupancy control "better" savings factors represent savings from zone-based occupancy controls, whereas the "best" savings factors represent savings from luminaire level lighting controls.  For building types where reliable data was not available, derating factors were applied to known savings factors to determine appropriate values.
+
+Task tuning "best" savings factors represent typical savings from task tuning independent of other lighting control strategies.  Where referenced studies provided savings factors for retrofits, a derating factor was applied to approximate savings in new construction buildings.
