@@ -1,11 +1,18 @@
 <template>
-  <Teleport to="body">
+  <Teleport v-if="mounted" to="body">
     <div class="build-info">Build: {{ hash }}</div>
   </Teleport>
 </template>
 
 <script setup>
+import { ref, onMounted } from "vue";
+
 const hash = __COMMIT_HASH__;
+const mounted = ref(false);
+
+onMounted(() => {
+  mounted.value = true;
+});
 </script>
 
 <style>
