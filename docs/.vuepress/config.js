@@ -1,9 +1,18 @@
 import { defineUserConfig } from "vuepress";
 import { defaultTheme } from "@vuepress/theme-default";
 import { viteBundler } from "@vuepress/bundler-vite";
+import { execSync } from "child_process";
+
+const commitHash = execSync("git rev-parse --short HEAD").toString().trim();
 
 export default defineUserConfig({
-  bundler: viteBundler(),
+  bundler: viteBundler({
+    viteOptions: {
+      define: {
+        __COMMIT_HASH__: JSON.stringify(commitHash),
+      },
+    },
+  }),
   theme: defaultTheme({
     logo: "/sketchbox_logo.png",
     logoDark: "/sketchbox_logo_dark_mode.png",
