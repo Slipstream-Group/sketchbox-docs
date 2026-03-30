@@ -27,7 +27,7 @@ This functionality is not currently available. However if there is a location yo
 
 ## Can I export hourly data from Sketchbox?
 
-There isn't a way to get hourly data directly from Sketchbox. However, by clicking the "Download Archive" button at the top of the results tab, the inp and prd files can be downloaded and opened in eQuest 3.64. From there, more detailed results can be extracted from the model.
+Yes, hourly kWh and therms data can be accessed by going to the Results tab and clicking the “Download Results” button. If more detailed hourly data is needed, it is recommended that the user click the “Download Archive” button and import the INP and PRD files into eQuest 3.64. From there, more detailed results can be extracted from the model.
 
 ## How should lighting controls savings factors be applied?
 
